@@ -22,6 +22,8 @@ def main() -> None:
             print(f"Found {contents} at {path}, writing now")
             ipsa.add_ip(contents)
 
+        os.remove(path)
+
 
 if __name__ == "__main__":
     main()

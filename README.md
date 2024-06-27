@@ -34,6 +34,10 @@ python3 lipsca.py
 
 Follow the steps on screen.
 
+If it was successful, the `out/` folder should be empty. You may now delete it.
+
+All the IPs from the legacy store should now be avaliable in `ipdb.txt`.
+
 ## Disclaimer
 
 Ping the Internet! is not liable nor responsible for any damages or other harm caused by the use of this program, its contents, or its output. This project will send out millions of network requests in a short amount of time, which *may* cause your router or ISP to temporarily disable internet access for your device or home.
