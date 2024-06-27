@@ -1,6 +1,6 @@
 """
 Legacy IP Address Storage Conversion Agent
-(c) 2024 Logan Dhillon. All rights reserved.
+(c) 2024 Logan Dhillon
 """
 import os
 import ipsa

@@ -1,4 +1,4 @@
-# (c) 2024 Logan Dhillon. All rights reserved.
+# (c) 2024 Logan Dhillon
 
 import random
 import webbrowser

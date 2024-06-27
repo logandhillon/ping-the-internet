@@ -1,6 +1,6 @@
 """
 IP Address Storage Agent Client
-(c) 2024 Logan Dhillon. All rights reserved.
+(c) 2024 Logan Dhillon
 """
 STORE_NAME = "ipdb.txt"
 
