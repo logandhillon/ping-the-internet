@@ -20,6 +20,20 @@ Finally, run `probe_http.py`.
 
 :warning: This script is **VERY** CPU-intensive, and sometimes may be difficult to abort! (even with task manager!)
 
+## Legacy Store Conversion
+
+If you used an older version of this program, and would like to convert the legacy IP storage system into the newer IPDB store, follow these steps.
+
+Ensure you are in the root directory of the project, containing the `out/` folder and any scripts.
+
+Run the Legacy IP Address Storage Conversion Agent (LIPSCA).
+
+```sh
+python3 lipsca.py
+```
+
+Follow the steps on screen.
+
 ## Disclaimer
 
 Ping the Internet! is not liable nor responsible for any damages or other harm caused by the use of this program, its contents, or its output. This project will send out millions of network requests in a short amount of time, which *may* cause your router or ISP to temporarily disable internet access for your device or home.
